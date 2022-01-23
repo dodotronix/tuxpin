@@ -1,4 +1,4 @@
-(kicad_sch (version 20220103) (generator eeschema)
+(kicad_sch (version 20220104) (generator eeschema)
 
   (uuid e33c5c12-2d1b-4327-888d-b8d5bba18133)
 
@@ -1043,11 +1043,11 @@
     (uuid fe4b0b48-f253-48ff-996d-aeb775371c60)
   )
 
-  (text "DNE" (at 236.22 87.63 180)
+  (text "DNE" (at 236.22 87.63 0)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 355249bc-3d6f-4a3a-b74d-6ec898d43281)
   )
-  (text "DNE" (at 243.84 67.31 180)
+  (text "DNE" (at 243.84 67.31 0)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid dde4e1a4-d1dd-40e2-92fa-7a258d0e4440)
   )
