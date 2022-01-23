@@ -4,7 +4,7 @@
 (Type: G-code from Geometry)
 (Units: MM)
 
-(Created on Sunday, 23 January 2022 at 16:59)
+(Created on Sunday, 23 January 2022 at 19:20)
 
 (This preprocessor is the default preprocessor used by FlatCAM.)
 (It is made to work with MACH3 compatible motion controllers.)
@@ -36,8 +36,8 @@
 (Steps per circle: 64)
 (Preprocessor Excellon: default)
 
-(X range:   14.2780 ...   22.5711  mm)
-(Y range:    3.3150 ...   20.2441  mm)
+(X range:    7.4289 ...   15.7220  mm)
+(Y range:   27.7559 ...   44.6850  mm)
 
 (Spindle Speed: 9000 RPM)
 G21
@@ -58,15 +58,15 @@ G00 Z15.0000
 G01 F80.00
 M03 S9000
 G4 P5.0
-G00 X22.1710 Y3.7150
+G00 X7.8290 Y44.2850
 G01 Z-2.0000
 G01 Z0
 G00 Z2.0000
-G00 X14.6780 Y19.8440
+G00 X15.3220 Y28.1560
 G01 Z-2.0000
 G01 Z0
 G00 Z2.0000
-G00 X17.3450 Y19.8440
+G00 X12.6550 Y28.1560
 G01 Z-2.0000
 G01 Z0
 G00 Z2.0000
