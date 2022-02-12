@@ -3,9 +3,9 @@
     "GenerationSoftware": {
       "Vendor": "KiCad",
       "Application": "Pcbnew",
-      "Version": "(6.99.0-562-g5449a92878)"
+      "Version": "(6.99.0-575-gbe99240c8c)"
     },
-    "CreationDate": "2022-01-23T10:56:24+01:00"
+    "CreationDate": "2022-02-12T13:56:45+01:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -44,6 +44,11 @@
       "FilePolarity": "Positive"
     },
     {
+      "Path": "tuxpin-F_Silkscreen.gbr",
+      "FileFunction": "Legend,Top",
+      "FilePolarity": "Positive"
+    },
+    {
       "Path": "tuxpin-Edge_Cuts.gbr",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
@@ -60,7 +65,6 @@
     },
     {
       "Type": "SolderMask",
-      "Color": "Green",
       "Thickness": 0.01,
       "Name": "Top Solder Mask"
     },
@@ -83,7 +87,6 @@
     },
     {
       "Type": "SolderMask",
-      "Color": "Green",
       "Thickness": 0.01,
       "Name": "Bottom Solder Mask"
     },
