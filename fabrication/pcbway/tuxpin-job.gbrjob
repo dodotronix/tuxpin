@@ -3,9 +3,9 @@
     "GenerationSoftware": {
       "Vendor": "KiCad",
       "Application": "Pcbnew",
-      "Version": "(6.99.0-575-gbe99240c8c)"
+      "Version": "(6.99.0-907-g90f6edad61)"
     },
-    "CreationDate": "2022-02-12T13:56:45+01:00"
+    "CreationDate": "2022-02-13T13:40:20+01:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -47,6 +47,16 @@
       "Path": "tuxpin-F_Silkscreen.gbr",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
+    },
+    {
+      "Path": "tuxpin-F_Mask.gbr",
+      "FileFunction": "SolderMask,Top",
+      "FilePolarity": "Negative"
+    },
+    {
+      "Path": "tuxpin-B_Mask.gbr",
+      "FileFunction": "SolderMask,Bot",
+      "FilePolarity": "Negative"
     },
     {
       "Path": "tuxpin-Edge_Cuts.gbr",
