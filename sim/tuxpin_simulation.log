@@ -1,22 +1,22 @@
-Circuit: * Z:\home\dodotronix\projects\tuxpin\tuxpin_simulation.asc
+Circuit: * Z:\home\dodotronix\projects\tuxpin\sim\tuxpin_simulation.asc
 
 Limiting fall time of source v1 to 0.5
 Per .tran options, skipping operating point for transient analysis.
 
-Date: Thu Feb 10 19:58:48 2022
-Total elapsed time: 0.118 seconds.
+Date: Mon Feb 21 19:20:38 2022
+Total elapsed time: 0.091 seconds.
 
 tnom = 27
 temp = 27
 method = modified trap
-totiter = 3283
-traniter = 3283
-tranpoints = 1234
-accept = 1031
-rejected = 203
+totiter = 2466
+traniter = 2466
+tranpoints = 980
+accept = 853
+rejected = 127
 matrix size = 29
 fillins = 26
 solver = Normal
-Matrix Compiler1: 3.79 KB object code size  1.1/0.5/[0.3]
-Matrix Compiler2: 3.06 KB object code size  0.3/0.5/[0.3]
+Matrix Compiler1: 3.79 KB object code size  1.7/0.6/[0.5]
+Matrix Compiler2: 3.06 KB object code size  0.5/0.6/[0.4]
 
