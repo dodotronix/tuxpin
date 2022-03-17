@@ -1,4 +1,4 @@
-(kicad_sch (version 20220104) (generator eeschema)
+(kicad_sch (version 20220126) (generator eeschema)
 
   (uuid e33c5c12-2d1b-4327-888d-b8d5bba18133)
 
@@ -1194,7 +1194,7 @@
     (property "Reference" "R2" (id 0) (at 121.1581 38.2206 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "100" (id 1) (at 121.1581 40.5193 0)
+    (property "Value" "100k" (id 1) (at 121.1581 40.5193 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" (id 2) (at 117.602 39.37 90)
@@ -2194,7 +2194,7 @@
       (reference "R1") (unit 1) (value "100") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
     )
     (path "/01df5f61-879b-4841-b017-2bce9ca1df1b"
-      (reference "R2") (unit 1) (value "100") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
+      (reference "R2") (unit 1) (value "100k") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
     )
     (path "/591e14ce-ba75-457a-a32d-167a4bde31a1"
       (reference "R3") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
